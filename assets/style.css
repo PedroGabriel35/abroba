@@ -31,7 +31,7 @@ body{
     padding: 2rem;
 }
 footer {
-    backdround-color: black;
+    background-color: black;
     color: white;
     position: fixed;
     bottom: 0;
