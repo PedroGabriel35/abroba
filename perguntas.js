@@ -10,7 +10,7 @@ criaCartao(
 )
 criaCartao(
     'Minecraft',
-    "O que é uma função?",
+    "Qual é o item com o maior nome no jogo?",
     'É o bloco de Escadas de Cobre Lapidado Levemente Desgastado Encerado',
 )
 criaCartao(
