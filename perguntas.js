@@ -1,20 +1,20 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Minecraft',
+    'Qual é o bloco mais raro do jogo??',
+    'É o bloco de Minério de Esmeralda de Ardosiabissal'
 )
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é PSG kk'
+    'Mercado de Trabalho',
+    'Qual é o maior medo de qualquer pessoa que entra no mercado de trabalho?',
+    'É a Carteira de Trabalho'
 )
 criaCartao(
-    'Programação',
+    'Minecraft',
     "O que é uma função?",
-    'Uma função é um bloco de código que executa alguma tarefa, semelhante a um CLT',
+    'É o bloco de Escadas de Cobre Lapidado Levemente Desgastado Encerado',
 )
 criaCartao(
-    'Língua Inglesa',
-    'Como se diz OI em Inglês?',
-    'OI em Inglês é HI (RAIos)'
+    'Five Night ats Freddy',
+    'Qual é o maior antagonista de FNAF?',
+    'É o Scott Cawton, não aguento mais tanto jogo sem um desfecho apenas teorias.'
 )
